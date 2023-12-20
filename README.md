@@ -1,1 +1,1 @@
-//Practica 4 - Interfaz grafica con prototipo
+Practica 4 - Interfaz grafica en relacion a un prototipo
